@@ -1148,16 +1148,16 @@ function getFontSpecs()
 	fontSizes = {};
 
 	var fontSpecs = [
-		{ id:"tiny", file:"minikylie_u_regular_8", size:0 },
-		{ id:"small_tight", file:"atarismall_u_regular_8", size:0 },
-		{ id:"small_harsh", file:"5mikropix_regular_8", size:0 },
-		{ id:"regular", file:"bmmini_u_regular_8", size:0 },
-		{ id:"regular_short", file:"04b03_u_regular_8", size:0 },
+		{ id:"tiny", file:"minikylie_u_regular_16", size:0 },
+		{ id:"small_tight", file:"atarismall_u_regular_16", size:0 },
+		{ id:"small_harsh", file:"5mikropix_regular_16", size:0 },
+		{ id:"regular", file:"bmmini_u_regular_16", size:0 },
+		{ id:"regular_short", file:"04b03_u_regular_16", size:0 },
 		{ id:"title_tall", file:"pixelplay_regular_16", size:0 },
 		{ id:"title_news", file:"motorolascreentype_u_regular_16", size:0 },
-		{ id:"title_thick", file:"chixa_demibold_14", size:0 },
-		{ id:"ui_regular", file:"notnokia_u_regular_8", size:0 },
-		{ id:"large", file:"resource_u_regular_8", size:0 },
+		{ id:"title_thick", file:"chixa_demibold_16", size:0 },
+		{ id:"ui_regular", file:"notnokia_u_regular_16", size:0 },
+		{ id:"large", file:"resource_u_regular_16", size:0 },
 	];
 
 	// find sizes from styles in fonts.css
